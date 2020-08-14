@@ -127,7 +127,12 @@ p {
 }
 
 #resources {
-  padding: 4rem;
+  padding: 10% 5% 0%;
+}
+
+.resource-image {
+  width: 100%;
+  border-radius: 100%;
 }
 
 /* Footer Section */
