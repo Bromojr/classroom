@@ -121,6 +121,12 @@ p {
   padding: 10% 5% 10%;
 }
 
+.newsletter-image {
+  width: 100%;
+  position: absolute;
+
+}
+
 /* Resources Section */
 #resources p {
   color: #fff;
